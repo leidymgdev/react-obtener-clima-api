@@ -1,3 +1,18 @@
+# react-obtener-clima-api
+
+Proyecto que obtiene el clima por ciudad y país de la api http://api.openweathermap.org/data/2.5/weather?q=Medell%C3%ADn,CO&appid=c49e8cf80567e9228271060e47f938bf
+
+API key: https://home.openweathermap.org/api_keys
+
+### Url productiva: https://vibrant-volhard-f19751.netlify.app/
+
+# Tecnologías Usadas
+
+- Html
+- Css
+- Javascript
+- React: Functional componentes, useState, useEffect, materialize, carga condicional de componentes etc.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
