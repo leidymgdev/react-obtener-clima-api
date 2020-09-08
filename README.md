@@ -11,7 +11,7 @@ API key: https://home.openweathermap.org/api_keys
 - Html
 - Css
 - Javascript
-- React: Functional componentes, useState, useEffect, materialize, carga condicional de componentes etc.
+- React: Functional componentes, useState, useEffect, materialize, carga condicional de componentes, fetch, etc.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
